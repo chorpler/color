@@ -15,16 +15,6 @@
   ],
   "license": "MIT",
   "repository": "Qix-/color",
-  "xo": {
-    "rules": {
-      "no-cond-assign": 0,
-      "new-cap": 0,
-      "unicorn/prefer-module": 0,
-      "no-mixed-operators": 0,
-      "complexity": 0,
-      "unicorn/numeric-separators-style": 0
-    }
-  },
   "files": [
     "LICENSE",
     "index.js"
