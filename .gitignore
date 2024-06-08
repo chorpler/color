@@ -1,1 +1,10 @@
 node_modules
+
+# IDE stuff
+.vscode
+.history
+.idea
+
+# OS stuff
+.DS_Store
+
