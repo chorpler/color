@@ -26,10 +26,7 @@
   "engines": {
     "node": ">=12.5.0"
   },
-  "dependencies": {
-    "color-convert": "^2.0.1",
-    "color-string": "^1.9.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "mocha": "9.0.2",
     "xo": "0.42.0"

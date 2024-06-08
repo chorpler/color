@@ -1,5 +1,5 @@
-const colorString = require('./color-string');
-const convert = require('./color-convert');
+const colorString = require('./color-string.js');
+const convert = require('./color-convert.js');
 
 const skippedModels = [
 	// To be honest, I don't really feel like keyword belongs in color convert, but eh.
